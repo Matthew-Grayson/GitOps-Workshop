@@ -1,0 +1,11 @@
+{
+  "apiVersion": "v1",
+  "spec": {
+    "kind": "Workflow",
+    "spec": {
+      "type": "sequential",
+      "steps": []
+    }
+  },
+  "$schema": "https://api.northflank.com/v1/schemas/release-flow"
+}
